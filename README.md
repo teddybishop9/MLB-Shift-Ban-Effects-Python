@@ -15,7 +15,7 @@ Starting in the 2023 Major League Baseball season, a rule was changed that banne
 ### 3. Data Visualization
 * Now that I had the data on the desired final values, I wanted to visualize the data in a way that showed the wide range of "luck" increases between players while highlighting the ones that stood out the most.  To accomplish this, I used the **Python** library **MatPlotLib**. The resulting scatterplot plotted each players ground ball "luck" increase vs. their line drive "luck" increase, and then each player's point was colored on a scale corresponding to their overall "luck" increase. Finally, I annotated the graph with the names of the top 5 and bottom 5 players in terms of overall "luck" increase. This process can be found in the [PlayerPlots notebook](https://github.com/teddybishop9/MLB-Shift-Ban-Effects-Python/blob/main/PlayerPlots.ipynb), with the resulting visualization being shown below.
 
-Plot of Final Data --> ![image](https://github.com/teddybishop9/MLB-Shift-Ban-Effects-Python/assets/120417529/54a3da2c-b2dd-425f-b6d8-e05a13c883e2)
+![image](https://github.com/teddybishop9/MLB-Shift-Ban-Effects-Python/assets/120417529/54a3da2c-b2dd-425f-b6d8-e05a13c883e2)
 
 ## Conclusions
 #### 1. The final results of the effects league-wide are as follows:
