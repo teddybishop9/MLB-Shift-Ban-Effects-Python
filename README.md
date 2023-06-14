@@ -24,13 +24,13 @@ Starting in the 2023 Major League Baseball season, a rule was changed that banne
 * Fly ball "luck" decreased by 0.010 from 2022 to 2023
 * With an infield shift on in 2022, ground ball "luck" was -0.031 and line drive "luck" was -0.011.
 
-Therefore, we can conclude that the overall, taking away the shift may be a contributor to more hits on ground balls and line drives, while outfield positioning and defense may be getting better. In addition, we know that the infield shift was successful in causing hitter's "luck" on ground balls and line drives to be down quite significantly.
+Therefore, I conclude that the overall, taking away the shift may be a contributor to more hits on ground balls and line drives, while outfield positioning and defense may be getting better. In addition, I know that the infield shift was successful in causing hitter's "luck" on ground balls and line drives to be down quite significantly.
 #### 2. The final results of the effects on individual hitters are as follows:
 * "Luck" increases for different hitters do not seem to follow specific trends to the naked eye. This highlights the "randomness" element to baseball that makes it so unpredictable and exciting.
-* The biggest luck increaser is Jack Suwinski at an increase of 0.169 in overall luck! Hopefully, he is enjoying it!
-* The biggest luck decreaser is Chris Taylor at a decrease of 0.153 in overall luck! As a fan of Taylor's, I hope his luck turns positive soon!
+* The hitter with the biggest "luck" increase is Jack Suwinski at an increase of 0.169 in overall "luck". Hopefully, he is enjoying it!
+* The hitter with the biggest "luck" decrease is Chris Taylor at a decrease of 0.153 in overall "luck". As a fan of Taylor, I hope his "luck" turns positive soon!
 
-For individual players, I we do not have a great enough sample size to conclude with certainty that their "luck" changes are due to the shift ban.  However, it is fun to look at and analyze to see which player's "luck" has changed the most in one year, and why that might be. The shift ban could be a predictor, but more data would be necessary to say with certainty.
+For individual players, I do not have a great enough sample size to conclude with certainty that their "luck" changes are due to the shift ban.  However, it is fun to look at and analyze to see which player's "luck" has changed the most in one year, and why that might be. The shift ban could be a predictor, but more data would be necessary to say with certainty.
 
 ## Areas of Expansion
 * One area of expansion would be to revisit this project in 5 years, and look at a much greater sample size from before and after the shift was banned. This would either confirm or refute the our conclusions about these trends to a stronger degree.
